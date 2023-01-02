@@ -2,13 +2,13 @@
 	"Weekend": {
         "Monday": {
 			"enable": "1",
-            "open": "15:15:00",
-            "close": "15:20:00"
+            "open": "16:00:00",
+            "close": "17:30:00"
         },
 		"Tuesday": {
 			"enable": "1",
-            "open": "08:00:00",
-            "close": "19:00:00"
+            "open": "09:30:00",
+            "close": "18:00:00"
         },
 		"Wednesday": {
 			"enable": "1",
