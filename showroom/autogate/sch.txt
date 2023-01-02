@@ -2,37 +2,37 @@
 	"Weekend": {
         "Monday": {
 			"enable": "1",
-            "open": "09:00:00",
-            "close": "19:00:00"
+            "open": "15:15:00",
+            "close": "15:20:00"
         },
 		"Tuesday": {
 			"enable": "1",
-            "open": "09:00:00",
+            "open": "08:00:00",
             "close": "19:00:00"
         },
 		"Wednesday": {
 			"enable": "1",
-            "open": "09:00:00",
+            "open": "08:00:00",
             "close": "19:00:00"
         },
 		"Thursday": {
 			"enable": "1",
-            "open": "09:00:00",
+            "open": "08:00:00",
             "close": "19:00:00"
         },
 		"Friday": {
 			"enable": "1",
-            "open": "09:00:00",
+            "open": "08:00:00",
             "close": "19:00:00"
         },
 		"Saturday": {
-			"enable": "1",
-            "open": "09:00:00",
+			"enable": "0",
+            "open": "08:00:00",
             "close": "19:00:00"
         },
 		"Sunday": {
-			"enable": "1",
-            "open": "09:00:00",
+			"enable": "0",
+            "open": "08:00:00",
             "close": "19:00:00"
         }
 
